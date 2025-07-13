@@ -73,7 +73,7 @@ Follow the steps below to install and run the project in Unity:
 5. Confirm any additional popups that appear — click Yes to proceed.
 6. Once complete, install the APK on your Android phone for testing.
 
-If the build fails or encounters issues, you can use the pre-built APK included in the project files (used during the demo presentation).
+If the build fails or encounters issues, you can use the pre-built APK from here: "https://tinyurl.com/2edkmctu" (used during the demo presentation).
 
 Use the printed menu marker provided in the folder to interact with the app.
 
