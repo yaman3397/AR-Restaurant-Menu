@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_nl-NL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl-NL
+  m_SharedData: {fileID: 11400000, guid: 523a69094ca0a4338b9e002c1e61a123, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 392501911552
+    m_Localized: Bavariaans bier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105856
+    m_Localized: Traditioneel Duits drankje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105857
+    m_Localized: Een fris, verfrissend Beiers bier gebrouwen met de beste gerst en
+      hop.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105858
+    m_Localized: Appelstrudel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300160
+    m_Localized: Klassiek Oostenrijks dessert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300161
+    m_Localized: Warm gebak gevuld met gekruide appels en gouden rozijnen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300162
+    m_Localized: Pannenkoeken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300163
+    m_Localized: Favoriet ontbijt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494464
+    m_Localized: Luchtige pannenkoeken geserveerd met siroop en verse bessen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494465
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494466
+    m_Localized: Spaanse koude soep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494467
+    m_Localized: Verfrissende tomaten- en groentesoep geserveerd koud.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494468
+    m_Localized: Cappuccino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494469
+    m_Localized: Espressodrank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494470
+    m_Localized: Rijke espresso met gestoomde melkschuim.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494471
+    m_Localized: Pizza met spinazie en kaas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494472
+    m_Localized: Landelijke Italiaanse pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494473
+    m_Localized: Pizza belegd met babyspinazie, romige mozzarella en rijke tomatensaus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494474
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688768
+    m_Localized: Finse zalmsoep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688769
+    m_Localized: Romige zalmsoep met aardappelen en dille.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688770
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688771
+    m_Localized: Franse groentestoofpot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688772
+    m_Localized: Een stevige stoofpot van verse groenten en kruiden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688773
+    m_Localized: Alfredo-pasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688774
+    m_Localized: Romige Italiaanse pasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688775
+    m_Localized: Rijke pasta met romige Alfredosaus en parmezaan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688776
+    m_Localized: Mexicaanse taco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688777
+    m_Localized: Pittig Mexicaans straatvoedsel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688778
+    m_Localized: "Zachte ma\xEFstortilla's gevuld met gekruid rundvlees en verse
+      toppings."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688779
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688780
+    m_Localized: Indisch hapje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688781
+    m_Localized: Knapperig gebak gevuld met gekruide aardappelen en erwten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688782
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688783
+    m_Localized: Chinese soepdumplings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688784
+    m_Localized: Zachte dumplings gevuld met sappig varkensvlees en aromatische bouillon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883072
+    m_Localized: "Calorie\xEBn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883073
+    m_Localized: Eiwit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883074
+    m_Localized: Koolhydraten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883075
+    m_Localized: Vet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883076
+    m_Localized: Suiker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883077
+    m_Localized: Natrium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883078
+    m_Localized: Gerstemout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883079
+    m_Localized: Hop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883080
+    m_Localized: Water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883081
+    m_Localized: Gist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883082
+    m_Localized: Koolstofdioxide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883083
+    m_Localized: Appels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883084
+    m_Localized: Bladerdeeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883085
+    m_Localized: Kaneel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883086
+    m_Localized: Suiker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883087
+    m_Localized: Boter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883088
+    m_Localized: Rozijnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077376
+    m_Localized: Citroenschil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077377
+    m_Localized: Meel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077378
+    m_Localized: Eieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077379
+    m_Localized: Melk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077380
+    m_Localized: Bakpoeder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077381
+    m_Localized: Bosbessen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077382
+    m_Localized: Tomaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077383
+    m_Localized: Komkommer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077384
+    m_Localized: Paprika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077385
+    m_Localized: Ui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077386
+    m_Localized: Knoflook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077387
+    m_Localized: Olijfolie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077388
+    m_Localized: Brood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077389
+    m_Localized: Azijn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077390
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077391
+    m_Localized: Cacaopoeder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077392
+    m_Localized: Pizzadeeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077393
+    m_Localized: Tomatensaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077394
+    m_Localized: Spinazie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077395
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271680
+    m_Localized: Oregano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271681
+    m_Localized: Zwarte peper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271682
+    m_Localized: Zalm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271683
+    m_Localized: Aardappelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271684
+    m_Localized: Wortelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271685
+    m_Localized: Prei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271686
+    m_Localized: Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271687
+    m_Localized: Dille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271688
+    m_Localized: Aubergine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271689
+    m_Localized: Courgette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271690
+    m_Localized: Parmezaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271691
+    m_Localized: Peterselie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271692
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271693
+    m_Localized: Rundvleesgehakt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271694
+    m_Localized: Sla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271695
+    m_Localized: Cheddar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271696
+    m_Localized: Tomatensalsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271697
+    m_Localized: Zure room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271698
+    m_Localized: Avocado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465984
+    m_Localized: Erwten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465985
+    m_Localized: Ghee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465986
+    m_Localized: Komijn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465987
+    m_Localized: Kruiden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465988
+    m_Localized: Tarwedeeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465989
+    m_Localized: Lente-ui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465990
+    m_Localized: Sesamolie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465991
+    m_Localized: Sushirijst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465992
+    m_Localized: Norivellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465993
+    m_Localized: Rauwe vis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465994
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

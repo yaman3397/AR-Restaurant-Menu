@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menu
+  m_TableCollectionNameGuidString: 523a69094ca0a4338b9e002c1e61a123
+  m_Entries:
+  - m_Id: 392501911552
+    m_Key: bavarian_beer_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105856
+    m_Key: bavarian_beer_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105857
+    m_Key: bavarian_beer_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105858
+    m_Key: apple_strudle_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300160
+    m_Key: apple_strudle_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300161
+    m_Key: apple_strudle_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300162
+    m_Key: pancakes_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300163
+    m_Key: pancakes_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494464
+    m_Key: pancakes_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494465
+    m_Key: gazpacho_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494466
+    m_Key: gazpacho_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494467
+    m_Key: gazpacho_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494468
+    m_Key: cappuccino_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494469
+    m_Key: cappuccino_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494470
+    m_Key: cappuccino_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494471
+    m_Key: pizza_spinaci_formaggio_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494472
+    m_Key: pizza_spinaci_formaggio_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494473
+    m_Key: pizza_spinaci_formaggio_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494474
+    m_Key: lohikeitto_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688768
+    m_Key: lohikeitto_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688769
+    m_Key: lohikeitto_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688770
+    m_Key: ratatouille_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688771
+    m_Key: ratatouille_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688772
+    m_Key: ratatouille_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688773
+    m_Key: alfredo_pasta_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688774
+    m_Key: alfredo_pasta_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688775
+    m_Key: alfredo_pasta_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688776
+    m_Key: mexican_taco_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688777
+    m_Key: mexican_taco_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688778
+    m_Key: mexican_taco_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688779
+    m_Key: samosa_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688780
+    m_Key: samosa_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688781
+    m_Key: samosa_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688782
+    m_Key: xiaolongbao_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688783
+    m_Key: xiaolongbao_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688784
+    m_Key: xiaolongbao_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883072
+    m_Key: nutrition_calories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883073
+    m_Key: nutrition_protein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883074
+    m_Key: nutrition_carbs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883075
+    m_Key: nutrition_fat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883076
+    m_Key: nutrition_sugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883077
+    m_Key: nutrition_sodium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883078
+    m_Key: ingredient_barley
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883079
+    m_Key: ingredient_hops
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883080
+    m_Key: ingredient_water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883081
+    m_Key: ingredient_yeast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883082
+    m_Key: ingredient_co2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883083
+    m_Key: ingredient_apples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883084
+    m_Key: ingredient_pastry_dough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883085
+    m_Key: ingredient_cinnamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883086
+    m_Key: ingredient_sugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883087
+    m_Key: ingredient_butter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883088
+    m_Key: ingredient_raisins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077376
+    m_Key: ingredient_lemon_zest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077377
+    m_Key: ingredient_flour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077378
+    m_Key: ingredient_egg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077379
+    m_Key: ingredient_milk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077380
+    m_Key: ingredient_baking_powder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077381
+    m_Key: ingredient_blueberries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077382
+    m_Key: ingredient_tomato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077383
+    m_Key: ingredient_cucumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077384
+    m_Key: ingredient_bell_pepper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077385
+    m_Key: ingredient_onion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077386
+    m_Key: ingredient_garlic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077387
+    m_Key: ingredient_olive_oil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077388
+    m_Key: ingredient_bread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077389
+    m_Key: ingredient_vinegar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077390
+    m_Key: ingredient_espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077391
+    m_Key: ingredient_cocoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077392
+    m_Key: ingredient_pizza_dough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077393
+    m_Key: ingredient_tomato_sauce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077394
+    m_Key: ingredient_spinach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077395
+    m_Key: ingredient_mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271680
+    m_Key: ingredient_oregano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271681
+    m_Key: ingredient_pepper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271682
+    m_Key: ingredient_salmon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271683
+    m_Key: ingredient_potato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271684
+    m_Key: ingredient_carrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271685
+    m_Key: ingredient_leek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271686
+    m_Key: ingredient_cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271687
+    m_Key: ingredient_dill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271688
+    m_Key: ingredient_eggplant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271689
+    m_Key: ingredient_zucchini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271690
+    m_Key: ingredient_parmesan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271691
+    m_Key: ingredient_parsley
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271692
+    m_Key: ingredient_tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271693
+    m_Key: ingredient_beef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271694
+    m_Key: ingredient_lettuce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271695
+    m_Key: ingredient_cheddar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271696
+    m_Key: ingredient_salsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271697
+    m_Key: ingredient_sour_cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271698
+    m_Key: ingredient_avocado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465984
+    m_Key: ingredient_peas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465985
+    m_Key: ingredient_ghee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465986
+    m_Key: ingredient_cumin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465987
+    m_Key: ingredient_spices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465988
+    m_Key: ingredient_wheat_dough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465989
+    m_Key: ingredient_green_onion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465990
+    m_Key: ingredient_sesame_oil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465991
+    m_Key: ingredient_rice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465992
+    m_Key: ingredient_nori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465993
+    m_Key: ingredient_fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465994
+    m_Key: ingredient_wasabi
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6784796037811012001
+  references:
+    version: 2
+    RefIds:
+    - rid: 6784796037811012001
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1751631611779

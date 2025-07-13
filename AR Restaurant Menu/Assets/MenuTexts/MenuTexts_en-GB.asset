@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuTexts_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: aa6170ed8ff3d4da989b13ef9095206f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18157728161792
+    m_Localized: Bavarian Beer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161793
+    m_Localized: Traditional German Beverage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161794
+    m_Localized: A crisp, refreshing Bavarian beer brewed from the finest barley
+      and hops.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161795
+    m_Localized: Apple Strudle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161796
+    m_Localized: Classic Austrian Dessert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356096
+    m_Localized: Warm pastry filled with spiced apples and golden raisins.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356097
+    m_Localized: Pancakes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356098
+    m_Localized: Breakfast Favorite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356099
+    m_Localized: Fluffy pancakes served with syrup and fresh berries.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356100
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356101
+    m_Localized: Chilled Spanish Soup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356102
+    m_Localized: Refreshing tomato and vegetable soup served cold.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356103
+    m_Localized: Cappuccino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356104
+    m_Localized: Espresso Drink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356105
+    m_Localized: Rich espresso topped with steamed milk foam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356106
+    m_Localized: Pizza con Spinaci e Formaggio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356107
+    m_Localized: Rustic Italian Pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356108
+    m_Localized: Pizza topped with baby spinach, creamy mozzarella, and rich tomato
+      sauce.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356109
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356110
+    m_Localized: Finnish Salmon Soup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356111
+    m_Localized: Creamy salmon soup with potatoes and dill.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356112
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356113
+    m_Localized: French Vegetable Stew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550400
+    m_Localized: A hearty stew of fresh vegetables and herbs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550401
+    m_Localized: Alfredo Pasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550402
+    m_Localized: Creamy Italian Pasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550403
+    m_Localized: Rich pasta with creamy Alfredo sauce and parmesan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550404
+    m_Localized: Mexican Taco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550405
+    m_Localized: Spicy Mexican Street Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550406
+    m_Localized: Soft corn tortillas filled with spiced beef and fresh toppings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550407
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550408
+    m_Localized: Indian Snack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550409
+    m_Localized: Crispy pastry filled with spiced potatoes and peas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550410
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550411
+    m_Localized: Chinese Soup Dumplings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550412
+    m_Localized: Tender dumplings filled with juicy pork and aromatic broth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550413
+    m_Localized: Calories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550414
+    m_Localized: Protein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550415
+    m_Localized: Carbohydrates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550416
+    m_Localized: Fat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550417
+    m_Localized: Sugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550418
+    m_Localized: Sodium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550419
+    m_Localized: Barley Malt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550420
+    m_Localized: Hops
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744704
+    m_Localized: Water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744705
+    m_Localized: Yeast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744706
+    m_Localized: Carbon Dioxide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744707
+    m_Localized: Apples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744708
+    m_Localized: Pastry Dough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744709
+    m_Localized: Cinnamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744710
+    m_Localized: Sugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744711
+    m_Localized: Butter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744712
+    m_Localized: Raisins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744713
+    m_Localized: Lemon Zest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744714
+    m_Localized: Flour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744715
+    m_Localized: Eggs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744716
+    m_Localized: Milk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744717
+    m_Localized: Baking Powder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744718
+    m_Localized: Blueberries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744719
+    m_Localized: Tomatoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744720
+    m_Localized: Cucumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744721
+    m_Localized: Bell Pepper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744722
+    m_Localized: Onion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744723
+    m_Localized: Garlic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744724
+    m_Localized: Olive Oil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744725
+    m_Localized: Bread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744726
+    m_Localized: Vinegar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744727
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744728
+    m_Localized: Cocoa Powder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744729
+    m_Localized: Pizza Dough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744730
+    m_Localized: Tomato Sauce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939008
+    m_Localized: Spinach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939009
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939010
+    m_Localized: Oregano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939011
+    m_Localized: Black Pepper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939012
+    m_Localized: Salmon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939013
+    m_Localized: Potatoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939014
+    m_Localized: Carrots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939015
+    m_Localized: Leeks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939016
+    m_Localized: Cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939017
+    m_Localized: Dill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939018
+    m_Localized: Eggplant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939019
+    m_Localized: Zucchini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939020
+    m_Localized: Parmesan Cheese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939021
+    m_Localized: Parsley
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939022
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939023
+    m_Localized: Ground Beef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939024
+    m_Localized: Lettuce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939025
+    m_Localized: Cheddar Cheese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939026
+    m_Localized: Tomato Salsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939027
+    m_Localized: Sour Cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939028
+    m_Localized: Avocado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939029
+    m_Localized: Green Peas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939030
+    m_Localized: Ghee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939031
+    m_Localized: Cumin Seeds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939032
+    m_Localized: Spices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939033
+    m_Localized: Wheat Dough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939034
+    m_Localized: Green Onion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939035
+    m_Localized: Sesame Oil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939036
+    m_Localized: Sushi Rice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157749133312
+    m_Localized: Nori Sheets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157749133313
+    m_Localized: Raw Fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157749133314
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

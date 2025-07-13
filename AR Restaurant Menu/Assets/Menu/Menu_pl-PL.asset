@@ -1,0 +1,441 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 523a69094ca0a4338b9e002c1e61a123, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 392501911552
+    m_Localized: Piwo bawarskie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105856
+    m_Localized: "Tradycyjny niemiecki nap\xF3j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105857
+    m_Localized: "Chrupi\u0105ce, orze\u017Awiaj\u0105ce bawarskie piwo warzone z
+      najlepszego j\u0119czmienia i chmielu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105858
+    m_Localized: "Strudel jab\u0142kowy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300160
+    m_Localized: Klasyczny austriacki deser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300161
+    m_Localized: "Ciep\u0142e ciasto nadziewane przyprawionymi jab\u0142kami i z\u0142otymi
+      rodzynekami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300162
+    m_Localized: "Nale\u015Bniki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300163
+    m_Localized: "Ulubione \u015Bniadanie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494464
+    m_Localized: "Puszyste nale\u015Bniki podawane z syropem i \u015Bwie\u017Cymi
+      owocami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494465
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494466
+    m_Localized: "Zimna hiszpa\u0144ska zupa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494467
+    m_Localized: "Orze\u017Awiaj\u0105ca zupa pomidorowo-warzywna podawana na zimno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494468
+    m_Localized: Cappuccino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494469
+    m_Localized: "Nap\xF3j espresso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494470
+    m_Localized: Bogate espresso z spienionym mlekiem na parze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494471
+    m_Localized: Pizza ze szpinakiem i serem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494472
+    m_Localized: "Rustykalna w\u0142oska pizza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494473
+    m_Localized: "Pizza z m\u0142odym szpinakiem, kremow\u0105 mozzarell\u0105 i
+      bogatym sosem pomidorowym."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494474
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688768
+    m_Localized: "Fi\u0144ska zupa \u0142ososiowa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688769
+    m_Localized: "Kremowa zupa \u0142ososiowa z ziemniakami i koperkiem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688770
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688771
+    m_Localized: Francuski gulasz warzywny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688772
+    m_Localized: "Po\u017Cywna potrawka ze \u015Bwie\u017Cych warzyw i zi\xF3\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688773
+    m_Localized: Makaron Alfredo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688774
+    m_Localized: "Kremowy w\u0142oski makaron"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688775
+    m_Localized: Bogaty makaron z kremowym sosem Alfredo i parmezanem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688776
+    m_Localized: "Meksyka\u0144skie taco"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688777
+    m_Localized: "Pikantne meksyka\u0144skie jedzenie uliczne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688778
+    m_Localized: "Mi\u0119kkie tortille kukurydziane nadziewane pikantn\u0105 wo\u0142owin\u0105
+      i \u015Bwie\u017Cymi dodatkami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688779
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688780
+    m_Localized: "Indyjska przek\u0105ska"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688781
+    m_Localized: "Chrupi\u0105ce ciasto nadziewane przyprawionymi ziemniakami i groszkiem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688782
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688783
+    m_Localized: "Chi\u0144skie piero\u017Cki z zup\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688784
+    m_Localized: "Delikatne piero\u017Cki nadziewane soczyst\u0105 wieprzowin\u0105
+      i aromatycznym bulionem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883072
+    m_Localized: Kalorie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883073
+    m_Localized: "Bia\u0142ko"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883074
+    m_Localized: "W\u0119glowodany"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883075
+    m_Localized: "T\u0142uszcze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883076
+    m_Localized: Cukier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883077
+    m_Localized: "S\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883078
+    m_Localized: "S\u0142\xF3d j\u0119czmienny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883079
+    m_Localized: Chmiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883080
+    m_Localized: Woda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883081
+    m_Localized: "Dro\u017Cd\u017Ce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883082
+    m_Localized: "Dwutlenek w\u0119gla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883083
+    m_Localized: "Jab\u0142ka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883084
+    m_Localized: Ciasto francuskie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883085
+    m_Localized: Cynamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883086
+    m_Localized: Cukier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883087
+    m_Localized: "Mas\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883088
+    m_Localized: Rodzynki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077376
+    m_Localized: "Sk\xF3rka cytrynowa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077377
+    m_Localized: "M\u0105ka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077378
+    m_Localized: Jajka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077379
+    m_Localized: Mleko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077380
+    m_Localized: Proszek do pieczenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077381
+    m_Localized: Jagody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077382
+    m_Localized: Pomidory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077383
+    m_Localized: "Og\xF3rek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077384
+    m_Localized: Papryka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077385
+    m_Localized: Cebula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077386
+    m_Localized: Czosnek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077387
+    m_Localized: Oliwa z oliwek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077388
+    m_Localized: Chleb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077389
+    m_Localized: Ocet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077390
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077391
+    m_Localized: Kakao w proszku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077392
+    m_Localized: "Ciasto na pizz\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077393
+    m_Localized: Sos pomidorowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077394
+    m_Localized: Szpinak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077395
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271680
+    m_Localized: Oregano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271681
+    m_Localized: Pieprz czarny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271682
+    m_Localized: "\u0141oso\u015B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271683
+    m_Localized: Ziemniaki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271684
+    m_Localized: Marchewka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271685
+    m_Localized: Pory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271686
+    m_Localized: "\u015Amietana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271687
+    m_Localized: Koper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271688
+    m_Localized: "Bak\u0142a\u017Can"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271689
+    m_Localized: Cukinia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271690
+    m_Localized: Parmezan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271691
+    m_Localized: Pietruszka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271692
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271693
+    m_Localized: "Mi\u0119so mielone wo\u0142owe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271694
+    m_Localized: "Sa\u0142ata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271695
+    m_Localized: Ser cheddar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271696
+    m_Localized: Salsa pomidorowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271697
+    m_Localized: "\u015Amietana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271698
+    m_Localized: Awokado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465984
+    m_Localized: Groszek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465985
+    m_Localized: Ghi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465986
+    m_Localized: Kminek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465987
+    m_Localized: Przyprawy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465988
+    m_Localized: Ciasto pszenne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465989
+    m_Localized: Dymka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465990
+    m_Localized: Olej sezamowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465991
+    m_Localized: "Ry\u017C do sushi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465992
+    m_Localized: Wafle nori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465993
+    m_Localized: Surowa ryba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465994
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

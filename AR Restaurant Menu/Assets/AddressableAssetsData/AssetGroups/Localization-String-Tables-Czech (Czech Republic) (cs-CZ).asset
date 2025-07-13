@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Czech (Czech Republic) (cs-CZ)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Czech (Czech Republic) (cs-CZ)
+  m_GUID: 1fe73bb72cc554c3dbd29499f61af64d
+  m_SerializeEntries:
+  - m_GUID: 1eeeb7ab187f6479ba394dbfbed1ef3d
+    m_Address: Menu_cs-CZ
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cs-CZ
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3261e2d2bcb85415fa4eebc396388681
+    m_Address: MenuTranslation_cs-CZ
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cs-CZ
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5b5314e1b8ca494d848bee6edb1e877
+    m_Address: MenuTexts_cs-CZ
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cs-CZ
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2bbe025c9e779464caa4e8427ad9d109, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3d887a6d284c64c5c94273e870dbc912, type: 2}
+    - {fileID: 11400000, guid: 4fb41af0b7c2640159251638d422164c, type: 2}

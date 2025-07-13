@@ -1,0 +1,481 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuTranslation_cs-CZ
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs-CZ
+  m_SharedData: {fileID: 11400000, guid: 6de86c88f9f78451b8d327d94f0c11af, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50095710208
+    m_Localized: "Bavorsk\xE9 pivo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710209
+    m_Localized: "Tradi\u010Dn\xED n\u011Bmeck\xFD n\xE1poj"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710210
+    m_Localized: "Sv\u011B\u017Eiv\xE9 bavorsk\xE9 pivo uva\u0159en\xE9 z nejlep\u0161\xEDho
+      je\u010Dmene a chmele."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710211
+    m_Localized: "Jable\u010Dn\xFD z\xE1vin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710212
+    m_Localized: "Klasick\xFD rakousk\xFD dezert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710213
+    m_Localized: "Tepl\xE9 pe\u010Divo pln\u011Bn\xE9 ko\u0159en\u011Bn\xFDmi jablky
+      a zlat\xFDmi rozinkami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710214
+    m_Localized: "Pala\u010Dinky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710215
+    m_Localized: "Obl\xEDben\xE1 sn\xEDdan\u011B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710216
+    m_Localized: "Nad\xFDchan\xE9 pala\u010Dinky pod\xE1van\xE9 se sirupem a \u010Derstv\xFDm
+      ovocem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710217
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710218
+    m_Localized: "\u0160pan\u011Blsk\xE1 studen\xE1 pol\xE9vka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710219
+    m_Localized: "Osv\u011B\u017Euj\xEDc\xED raj\u010Datov\xE1 a zeleninov\xE1 pol\xE9vka
+      pod\xE1van\xE1 studen\xE1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710220
+    m_Localized: Cappuccino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710221
+    m_Localized: "N\xE1poj z espressa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710222
+    m_Localized: "Bohat\xE9 espresso se \u0161leha\u010Dkou z p\xE1ry."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904512
+    m_Localized: "Pizza se \u0161pen\xE1tem a s\xFDrem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904513
+    m_Localized: "Venkovsk\xE1 italsk\xE1 pizza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904514
+    m_Localized: "Pizza pokryt\xE1 baby \u0161pen\xE1tem, kr\xE9movou mozzarellou
+      a bohatou raj\u010Datovou om\xE1\u010Dkou."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904515
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904516
+    m_Localized: "Finsk\xE1 lososov\xE1 pol\xE9vka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904517
+    m_Localized: "Kr\xE9mov\xE1 lososov\xE1 pol\xE9vka s bramborami a koprem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904518
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904519
+    m_Localized: "Francouzsk\xFD zeleninov\xFD gul\xE1\u0161"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904520
+    m_Localized: "Vydatn\xFD gul\xE1\u0161 z \u010Derstv\xE9 zeleniny a bylinek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904521
+    m_Localized: "Alfredo t\u011Bstoviny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904522
+    m_Localized: "Kr\xE9mov\xE9 italsk\xE9 t\u011Bstoviny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904523
+    m_Localized: "Bohat\xE9 t\u011Bstoviny s kr\xE9movou Alfredo om\xE1\u010Dkou
+      a parmez\xE1nem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904524
+    m_Localized: "Mexick\xE9 taco"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904525
+    m_Localized: "Pikantn\xED mexick\xE9 pouli\u010Dn\xED j\xEDdlo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904526
+    m_Localized: "M\u011Bkk\xE9 kuku\u0159i\u010Dn\xE9 tortilly pln\u011Bn\xE9 ko\u0159en\u011Bn\xFDm
+      hov\u011Bz\xEDm masem a \u010Derstv\xFDmi p\u0159\xEDsadami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904527
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904528
+    m_Localized: "Indick\xE1 sva\u010Dina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904529
+    m_Localized: "K\u0159upav\xE9 t\u011Bsto pln\u011Bn\xE9 ko\u0159en\u011Bn\xFDmi
+      bramborami a hr\xE1\u0161kem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098816
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098817
+    m_Localized: "\u010C\xEDnsk\xE9 pol\xE9vkov\xE9 knedl\xEDky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098818
+    m_Localized: "N\u011B\u017En\xE9 knedl\xEDky pln\u011Bn\xE9 \u0161\u0165avnat\xFDm
+      vep\u0159ov\xFDm masem a vo\u0148av\xFDm v\xFDvarem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098819
+    m_Localized: Kalorie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098820
+    m_Localized: "B\xEDlkoviny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098821
+    m_Localized: Sacharidy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098822
+    m_Localized: Tuky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098823
+    m_Localized: Cukr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098824
+    m_Localized: "Sod\xEDk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098825
+    m_Localized: "Je\u010Dn\xFD slad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098826
+    m_Localized: Chmel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098827
+    m_Localized: Voda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098828
+    m_Localized: "Dro\u017Ed\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098829
+    m_Localized: "Oxid uhli\u010Dit\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098830
+    m_Localized: Jablka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098831
+    m_Localized: "Lineck\xE9 t\u011Bsto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098832
+    m_Localized: "Sko\u0159ice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098833
+    m_Localized: Cukr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098834
+    m_Localized: "M\xE1slo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098835
+    m_Localized: Rozinky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098836
+    m_Localized: "Citr\xF3nov\xE1 k\u016Fra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098837
+    m_Localized: Moulin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098838
+    m_Localized: Vejce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098839
+    m_Localized: "Ml\xE9ko"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098840
+    m_Localized: "Pr\xE1\u0161ek do pe\u010Diva"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293120
+    m_Localized: "Bor\u016Fvky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293121
+    m_Localized: "Raj\u010Data"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293122
+    m_Localized: Okurka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293123
+    m_Localized: Paprika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293124
+    m_Localized: Cibule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293125
+    m_Localized: "\u010Cesnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293126
+    m_Localized: "Olivov\xFD olej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293127
+    m_Localized: "Chl\xE9b"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293128
+    m_Localized: Ocet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293129
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293130
+    m_Localized: Kakao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293131
+    m_Localized: "T\u011Bsto na pizzu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293132
+    m_Localized: "Raj\u010Datov\xE1 om\xE1\u010Dka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293133
+    m_Localized: "\u0160pen\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293134
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293135
+    m_Localized: Oregano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293136
+    m_Localized: "\u010Cern\xFD pep\u0159"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293137
+    m_Localized: Losos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293138
+    m_Localized: Brambory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293139
+    m_Localized: Mrkev
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293140
+    m_Localized: "P\xF3rek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293141
+    m_Localized: Smetana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293142
+    m_Localized: Kopr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293143
+    m_Localized: Lilek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293144
+    m_Localized: Cuketa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293145
+    m_Localized: "Parmez\xE1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293146
+    m_Localized: "Petr\u017Eel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487424
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487425
+    m_Localized: "Hov\u011Bz\xED mlet\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487426
+    m_Localized: "Sal\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487427
+    m_Localized: "\u010Cedar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487428
+    m_Localized: "Raj\u010Datov\xE1 salsa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487429
+    m_Localized: "Zakysan\xE1 smetana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487430
+    m_Localized: "Avok\xE1do"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487431
+    m_Localized: "Hr\xE1\u0161ek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487432
+    m_Localized: "P\u0159epu\u0161t\u011Bn\xE9 m\xE1slo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487433
+    m_Localized: "Km\xEDn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487434
+    m_Localized: "Ko\u0159en\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487435
+    m_Localized: "P\u0161eni\u010Dn\xE9 t\u011Bsto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487436
+    m_Localized: "Jarn\xED cibule"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487437
+    m_Localized: "Sezamov\xFD olej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487438
+    m_Localized: "R\xFD\u017Ee na sushi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487439
+    m_Localized: Nori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487440
+    m_Localized: "Syrov\xE1 ryba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487441
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166848757751808
+    m_Localized: Fettuccine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169555547643904
+    m_Localized: "Provens\xE1lsk\xE9 bylinky\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170964758290432
+    m_Localized: "Z\xE1zvor\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904530
+    m_Localized: Sushi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904531
+    m_Localized: "Japonsk\xE1 delikatesa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336743210409984
+    m_Localized: "\u010Cerstv\xE9 sushi rolky s r\xFD\u017E\xED, \u0159asami a rybami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336743231381504
+    m_Localized: "Vep\u0159ov\xE9 mlet\xE9\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336743231381505
+    m_Localized: "S\xF3jov\xE1 om\xE1\u010Dka\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904532
+    m_Localized: "\u010Cerstv\xE9 sushi rolky s r\xFD\u017E\xED, mo\u0159sk\xFDmi
+      \u0159asami a rybami."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

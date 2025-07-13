@@ -1,0 +1,483 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuTranslation_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 6de86c88f9f78451b8d327d94f0c11af, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50095710208
+    m_Localized: "Bi\xE8re bavaroise"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710209
+    m_Localized: Boisson allemande traditionnelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710210
+    m_Localized: "Une bi\xE8re bavaroise croustillante et rafra\xEEchissante brass\xE9e
+      \xE0 partir du meilleur orge et houblon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710211
+    m_Localized: Strudel aux pommes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710212
+    m_Localized: Dessert autrichien classique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710213
+    m_Localized: "P\xE2tisserie chaude garnie de pommes \xE9pic\xE9es et de raisins
+      secs dor\xE9s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710214
+    m_Localized: "Cr\xEApes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710215
+    m_Localized: "Petit-d\xE9jeuner pr\xE9f\xE9r\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710216
+    m_Localized: "Des cr\xEApes moelleuses servies avec du sirop et des baies fra\xEEches."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710217
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710218
+    m_Localized: Soupe espagnole froide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710219
+    m_Localized: "Soupe rafra\xEEchissante \xE0 la tomate et aux l\xE9gumes servie
+      froide."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710220
+    m_Localized: Cappuccino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710221
+    m_Localized: "Boisson \xE0 l'espresso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50095710222
+    m_Localized: "Un espresso riche surmont\xE9 de mousse de lait \xE0 la vapeur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904512
+    m_Localized: "Pizza aux \xE9pinards et fromage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904513
+    m_Localized: Pizza italienne rustique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904514
+    m_Localized: "Pizza garnie de jeunes \xE9pinards, de mozzarella cr\xE9meuse et
+      d'une riche sauce tomate."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904515
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904516
+    m_Localized: Soupe finlandaise au saumon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904517
+    m_Localized: "Soupe cr\xE9meuse au saumon avec pommes de terre et aneth."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904518
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904519
+    m_Localized: "Rago\xFBt de l\xE9gumes fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904520
+    m_Localized: "Un rago\xFBt copieux de l\xE9gumes frais et d'herbes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904521
+    m_Localized: "P\xE2tes Alfredo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904522
+    m_Localized: "P\xE2tes italiennes cr\xE9meuses"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904523
+    m_Localized: "Des p\xE2tes riches avec une sauce Alfredo cr\xE9meuse et du parmesan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904524
+    m_Localized: Taco mexicain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904525
+    m_Localized: "Nourriture de rue mexicaine \xE9pic\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904526
+    m_Localized: "Des tortillas de ma\xEFs souples garnies de b\u0153uf \xE9pic\xE9
+      et de garnitures fra\xEEches."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904527
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904528
+    m_Localized: Snack indien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904529
+    m_Localized: "P\xE2tisserie croustillante garnie de pommes de terre \xE9pic\xE9es
+      et de pois."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098816
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098817
+    m_Localized: Boulettes de soupe chinoises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098818
+    m_Localized: Boulettes tendres garnies de porc juteux et bouillon aromatique.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098819
+    m_Localized: Calories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098820
+    m_Localized: "Prot\xE9ines"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098821
+    m_Localized: Glucides
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098822
+    m_Localized: Graisses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098823
+    m_Localized: Sucres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098824
+    m_Localized: Sodium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098825
+    m_Localized: "Orge malt\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098826
+    m_Localized: Houblon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098827
+    m_Localized: Eau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098828
+    m_Localized: Levure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098829
+    m_Localized: Dioxyde de carbone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098830
+    m_Localized: Pommes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098831
+    m_Localized: "P\xE2te feuillet\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098832
+    m_Localized: Cannelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098833
+    m_Localized: Sucres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098834
+    m_Localized: Beurre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098835
+    m_Localized: Raisins secs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098836
+    m_Localized: Zeste de citron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098837
+    m_Localized: Farine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098838
+    m_Localized: Oeufs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098839
+    m_Localized: Lait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50104098840
+    m_Localized: Levure chimique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293120
+    m_Localized: Myrtilles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293121
+    m_Localized: Tomates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293122
+    m_Localized: Concombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293123
+    m_Localized: Poivron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293124
+    m_Localized: Oignon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293125
+    m_Localized: Ail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293126
+    m_Localized: Huile d'olive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293127
+    m_Localized: Pain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293128
+    m_Localized: Vinaigre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293129
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293130
+    m_Localized: Cacao en poudre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293131
+    m_Localized: "P\xE2te \xE0 pizza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293132
+    m_Localized: Sauce tomate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293133
+    m_Localized: "\xC9pinards"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293134
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293135
+    m_Localized: Origan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293136
+    m_Localized: Poivre noir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293137
+    m_Localized: Saumon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293138
+    m_Localized: Pommes de terre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293139
+    m_Localized: Carottes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293140
+    m_Localized: Poireaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293141
+    m_Localized: "Cr\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293142
+    m_Localized: Aneth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293143
+    m_Localized: Aubergine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293144
+    m_Localized: Courgette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293145
+    m_Localized: Parmesan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50108293146
+    m_Localized: Persil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487424
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487425
+    m_Localized: "B\u0153uf hach\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487426
+    m_Localized: Laitue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487427
+    m_Localized: Cheddar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487428
+    m_Localized: Salsa tomate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487429
+    m_Localized: "Cr\xE8me aigre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487430
+    m_Localized: Avocat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487431
+    m_Localized: Pois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487432
+    m_Localized: Ghee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487433
+    m_Localized: Cumin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487434
+    m_Localized: "\xC9pices"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487435
+    m_Localized: "P\xE2te de bl\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487436
+    m_Localized: Oignon vert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487437
+    m_Localized: "Huile de s\xE9same"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487438
+    m_Localized: Riz pour sushi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487439
+    m_Localized: Feuilles de nori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487440
+    m_Localized: Poisson cru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50112487441
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166848757751808
+    m_Localized: Fettuccine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169555547643904
+    m_Localized: 'Herbes de Provence
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170964758290432
+    m_Localized: 'Gingembre
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904530
+    m_Localized: Sushi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904531
+    m_Localized: "D\xE9licatesse japonaise"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336743210409984
+    m_Localized: Rouleaux de sushi frais avec riz, algues et poisson.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336743231381504
+    m_Localized: "Viande de porc hach\xE9e\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336743231381505
+    m_Localized: 'Sauce soja
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50099904532
+    m_Localized: Rouleaux de sushi frais avec riz, algues et poisson.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

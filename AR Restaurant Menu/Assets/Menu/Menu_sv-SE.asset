@@ -1,0 +1,438 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_sv-SE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv-SE
+  m_SharedData: {fileID: 11400000, guid: 523a69094ca0a4338b9e002c1e61a123, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 392501911552
+    m_Localized: "Bayert \xF6l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105856
+    m_Localized: Traditionell tysk dryck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105857
+    m_Localized: "En fr\xE4sch, uppfriskande bayersk \xF6l bryggd av det finaste
+      kornet och humle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105858
+    m_Localized: "\xC4ppelstrudel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300160
+    m_Localized: "Klassisk \xF6sterrikisk efterr\xE4tt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300161
+    m_Localized: "Varm bakelse fylld med kryddade \xE4pplen och gyllene russin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300162
+    m_Localized: Pannkakor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300163
+    m_Localized: Favoritfrukost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494464
+    m_Localized: "Fluffiga pannkakor serverade med sirap och f\xE4rska b\xE4r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494465
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494466
+    m_Localized: Kall spansk soppa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494467
+    m_Localized: "Uppfriskande tomat- och gr\xF6nsakssoppa serverad kall."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494468
+    m_Localized: Cappuccino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494469
+    m_Localized: Espressodryck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494470
+    m_Localized: "Kraftfull espresso med \xE5ngad mj\xF6lkskum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494471
+    m_Localized: Pizza med spenat och ost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494472
+    m_Localized: Rustik italiensk pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494473
+    m_Localized: "Pizza toppad med babyspenat, kr\xE4mig mozzarella och rik tomatss\xE5s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494474
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688768
+    m_Localized: Finsk laxsoppa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688769
+    m_Localized: "Kr\xE4mig laxsoppa med potatis och dill."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688770
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688771
+    m_Localized: "Fransk gr\xF6nsaksgryta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688772
+    m_Localized: "En stadig gryta med f\xE4rska gr\xF6nsaker och \xF6rter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688773
+    m_Localized: Alfredopasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688774
+    m_Localized: "Kr\xE4mig italiensk pasta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688775
+    m_Localized: "Rik pasta med kr\xE4mig Alfredos\xE5s och parmesan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688776
+    m_Localized: Mexikansk taco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688777
+    m_Localized: Kryddig mexikansk gatumat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688778
+    m_Localized: "Mjuka majstortillas fyllda med kryddat n\xF6tk\xF6tt och f\xE4rska
+      p\xE5l\xE4gg."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688779
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688780
+    m_Localized: "Indiskt mellanm\xE5l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688781
+    m_Localized: "Krispigt bakverk fyllt med kryddad potatis och \xE4rtor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688782
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688783
+    m_Localized: Kinesiska soppdump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688784
+    m_Localized: "Mjuka dumplings fyllda med saftig fl\xE4skk\xF6tt och aromatisk
+      buljong."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883072
+    m_Localized: Kalorier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883073
+    m_Localized: Protein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883074
+    m_Localized: Kolhydrater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883075
+    m_Localized: Fett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883076
+    m_Localized: Socker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883077
+    m_Localized: Natrium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883078
+    m_Localized: Kornmalt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883079
+    m_Localized: Humle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883080
+    m_Localized: Vatten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883081
+    m_Localized: "J\xE4st"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883082
+    m_Localized: Koldioxid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883083
+    m_Localized: "\xC4pplen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883084
+    m_Localized: Pastadeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883085
+    m_Localized: Kanel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883086
+    m_Localized: Socker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883087
+    m_Localized: "Sm\xF6r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883088
+    m_Localized: Rusiner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077376
+    m_Localized: Citronskal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077377
+    m_Localized: "Vetemj\xF6l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077378
+    m_Localized: "\xC4gg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077379
+    m_Localized: "Mj\xF6lk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077380
+    m_Localized: Bakpulver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077381
+    m_Localized: "Bl\xE5b\xE4r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077382
+    m_Localized: Tomat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077383
+    m_Localized: Gurka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077384
+    m_Localized: Paprika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077385
+    m_Localized: "L\xF6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077386
+    m_Localized: "Vitl\xF6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077387
+    m_Localized: Olivolja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077388
+    m_Localized: "Br\xF6d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077389
+    m_Localized: "Vin\xE4ger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077390
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077391
+    m_Localized: Kakaopulver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077392
+    m_Localized: Pizzadeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077393
+    m_Localized: "Tomatss\xE5s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077394
+    m_Localized: Spinat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077395
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271680
+    m_Localized: Oregano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271681
+    m_Localized: Svartpeppar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271682
+    m_Localized: Lax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271683
+    m_Localized: Potatis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271684
+    m_Localized: "Mor\xF6tter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271685
+    m_Localized: "Purjol\xF6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271686
+    m_Localized: "Gr\xE4dde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271687
+    m_Localized: Dill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271688
+    m_Localized: Aubergine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271689
+    m_Localized: Zucchini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271690
+    m_Localized: Parmesan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271691
+    m_Localized: Persilja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271692
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271693
+    m_Localized: "N\xF6tf\xE4rs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271694
+    m_Localized: Sallad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271695
+    m_Localized: Cheddarost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271696
+    m_Localized: Tomat salsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271697
+    m_Localized: "Gr\xE4ddfil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271698
+    m_Localized: Avokado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465984
+    m_Localized: "\xC4rtor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465985
+    m_Localized: Ghee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465986
+    m_Localized: Spiskummin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465987
+    m_Localized: Kryddor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465988
+    m_Localized: "Vetemj\xF6lsdeg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465989
+    m_Localized: "V\xE5rl\xF6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465990
+    m_Localized: Sesamolja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465991
+    m_Localized: Sushiris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465992
+    m_Localized: Noriblad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465993
+    m_Localized: "R\xE5 fisk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465994
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

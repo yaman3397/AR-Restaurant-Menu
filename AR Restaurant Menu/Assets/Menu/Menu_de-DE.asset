@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 523a69094ca0a4338b9e002c1e61a123, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 392501911552
+    m_Localized: Bayerisches Bier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105856
+    m_Localized: "Traditionelles deutsches Getr\xE4nk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105857
+    m_Localized: Ein frisches, erfrischendes bayerisches Bier, gebraut aus feinstem
+      Gerstenmalz und Hopfen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392506105858
+    m_Localized: Apfelstrudel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300160
+    m_Localized: "Klassisches \xF6sterreichisches Dessert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300161
+    m_Localized: "Warmes Geb\xE4ck mit gew\xFCrzten \xC4pfeln und goldenen Rosinen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300162
+    m_Localized: Pfannkuchen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392510300163
+    m_Localized: "Beliebtes Fr\xFChst\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494464
+    m_Localized: Fluffige Pfannkuchen mit Sirup und frischen Beeren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494465
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494466
+    m_Localized: Kalte spanische Suppe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494467
+    m_Localized: "Erfrischende Tomaten-Gem\xFCsesuppe, kalt serviert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494468
+    m_Localized: Cappuccino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494469
+    m_Localized: "Espresso-Getr\xE4nk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494470
+    m_Localized: "Kr\xE4ftiger Espresso mit ged\xE4mpftem Milchschaum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494471
+    m_Localized: "Pizza mit Spinat und K\xE4se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494472
+    m_Localized: Rustikale italienische Pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494473
+    m_Localized: Pizza belegt mit Babyspinat, cremigem Mozzarella und reichhaltiger
+      Tomatensauce.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392514494474
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688768
+    m_Localized: Finnische Lachssuppe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688769
+    m_Localized: Cremige Lachssuppe mit Kartoffeln und Dill.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688770
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688771
+    m_Localized: "Franz\xF6sischer Gem\xFCseeintopf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688772
+    m_Localized: "Ein herzhafter Eintopf aus frischem Gem\xFCse und Kr\xE4utern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688773
+    m_Localized: Alfredo-Pasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688774
+    m_Localized: Cremige italienische Pasta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688775
+    m_Localized: Reichhaltige Pasta mit cremiger Alfredo-Sauce und Parmesan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688776
+    m_Localized: Mexikanischer Taco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688777
+    m_Localized: "W\xFCrziges mexikanisches Stra\xDFenessen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688778
+    m_Localized: "Weiche Mais-Tortillas gef\xFCllt mit gew\xFCrztem Rindfleisch und
+      frischen Bel\xE4gen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688779
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688780
+    m_Localized: Indischer Snack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688781
+    m_Localized: "Knuspriges Geb\xE4ck gef\xFCllt mit gew\xFCrzten Kartoffeln und
+      Erbsen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688782
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688783
+    m_Localized: "Chinesische Suppenkn\xF6del"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392518688784
+    m_Localized: "Zarte Kn\xF6del gef\xFCllt mit saftigem Schweinefleisch und aromatischer
+      Br\xFChe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883072
+    m_Localized: Kalorien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883073
+    m_Localized: Protein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883074
+    m_Localized: Kohlenhydrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883075
+    m_Localized: Fett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883076
+    m_Localized: Zucker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883077
+    m_Localized: Natrium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883078
+    m_Localized: Gerstenmalz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883079
+    m_Localized: Hopfen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883080
+    m_Localized: Wasser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883081
+    m_Localized: Hefe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883082
+    m_Localized: Kohlendioxid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883083
+    m_Localized: "\xC4pfel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883084
+    m_Localized: "Bl\xE4tterteig"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883085
+    m_Localized: Zimt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883086
+    m_Localized: Zucker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883087
+    m_Localized: Butter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392522883088
+    m_Localized: Rosinen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077376
+    m_Localized: Zitronenschale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077377
+    m_Localized: Mehl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077378
+    m_Localized: Eier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077379
+    m_Localized: Milch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077380
+    m_Localized: Backpulver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077381
+    m_Localized: Heidelbeeren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077382
+    m_Localized: Tomaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077383
+    m_Localized: Gurke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077384
+    m_Localized: Paprika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077385
+    m_Localized: Zwiebel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077386
+    m_Localized: Knoblauch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077387
+    m_Localized: "Oliven\xF6l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077388
+    m_Localized: Brot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077389
+    m_Localized: Essig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077390
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077391
+    m_Localized: Kakaopulver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077392
+    m_Localized: Pizzateig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077393
+    m_Localized: Tomatensauce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077394
+    m_Localized: Spinat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392527077395
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271680
+    m_Localized: Oregano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271681
+    m_Localized: Schwarzer Pfeffer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271682
+    m_Localized: Lachs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271683
+    m_Localized: Kartoffeln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271684
+    m_Localized: Karotten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271685
+    m_Localized: Lauch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271686
+    m_Localized: Sahne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271687
+    m_Localized: Dill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271688
+    m_Localized: Aubergine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271689
+    m_Localized: Zucchini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271690
+    m_Localized: Parmesan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271691
+    m_Localized: Petersilie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271692
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271693
+    m_Localized: Hackfleisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271694
+    m_Localized: Kopfsalat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271695
+    m_Localized: Cheddar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271696
+    m_Localized: Tomatensalsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271697
+    m_Localized: Schmand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392531271698
+    m_Localized: Avocado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465984
+    m_Localized: Erbsen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465985
+    m_Localized: Ghee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465986
+    m_Localized: "Kreuzk\xFCmmel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465987
+    m_Localized: "Gew\xFCrze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465988
+    m_Localized: Weizenteig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465989
+    m_Localized: "Fr\xFChlingszwiebel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465990
+    m_Localized: "Sesam\xF6l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465991
+    m_Localized: Sushireis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465992
+    m_Localized: "Noribl\xE4tter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465993
+    m_Localized: Rohfisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 392535465994
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

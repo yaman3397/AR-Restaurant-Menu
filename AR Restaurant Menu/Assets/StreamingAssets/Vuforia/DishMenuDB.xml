@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="lohikeitto" size="0.100000 0.100000" />
+    <ImageTarget name="xialongbao" size="0.100000 0.100000" />
+    <ImageTarget name="taco" size="0.100000 0.100000" />
+    <ImageTarget name="sushi" size="0.100000 0.100000" />
+    <ImageTarget name="samosa" size="0.100000 0.100000" />
+    <ImageTarget name="ratatouille" size="0.100000 0.100000" />
+    <ImageTarget name="pizza" size="0.100000 0.100000" />
+    <ImageTarget name="pasta" size="0.100000 0.100000" />
+    <ImageTarget name="pancakes" size="0.100000 0.100000" />
+    <ImageTarget name="gazpacho" size="0.100000 0.100000" />
+    <ImageTarget name="coffee" size="0.100000 0.100000" />
+    <ImageTarget name="beer" size="0.100000 0.100000" />
+    <ImageTarget name="apple" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>

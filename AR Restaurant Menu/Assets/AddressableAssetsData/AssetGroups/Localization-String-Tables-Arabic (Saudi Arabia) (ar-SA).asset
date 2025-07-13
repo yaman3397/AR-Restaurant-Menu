@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Arabic (Saudi Arabia) (ar-SA)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Arabic (Saudi Arabia) (ar-SA)
+  m_GUID: aafb826193cd741cebe2d9b53460458b
+  m_SerializeEntries:
+  - m_GUID: 2fd5b234b32ba462899109bcdc2d4889
+    m_Address: MenuTexts_ar-SA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar-SA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c21fd1111da4048648d027c8cf247def
+    m_Address: Menu_ar-SA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar-SA
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea224d87dbad942bc9915c99652b4f83
+    m_Address: MenuTranslation_ar-SA
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar-SA
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2bbe025c9e779464caa4e8427ad9d109, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 591f8afe414dd4d41b1f656b425134ee, type: 2}
+    - {fileID: 11400000, guid: 9d90b8fd864ad46ba9fb4b680546b3c1, type: 2}

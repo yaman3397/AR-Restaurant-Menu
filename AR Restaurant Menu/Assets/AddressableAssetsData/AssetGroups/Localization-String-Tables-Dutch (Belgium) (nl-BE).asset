@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Dutch (Belgium) (nl-BE)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Dutch (Belgium) (nl-BE)
+  m_GUID: 12c877321007c477c91482f3616605a1
+  m_SerializeEntries:
+  - m_GUID: a4bca7b55099b4da3a56864066c6437f
+    m_Address: MenuTranslation_nl-BE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl-BE
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afc0259ede94340589bd0c7f20f4e4e0
+    m_Address: MenuTexts_nl-BE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl-BE
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef3be73c63aff44a78c7553ee99fba6d
+    m_Address: Menu_nl-BE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl-BE
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2bbe025c9e779464caa4e8427ad9d109, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3cea4e9c208f64e16bcd020630a4136e, type: 2}
+    - {fileID: 11400000, guid: ac7ebaef114dd43679797079dcd22ad4, type: 2}

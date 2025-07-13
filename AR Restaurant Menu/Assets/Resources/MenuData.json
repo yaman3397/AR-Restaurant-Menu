@@ -1,0 +1,1044 @@
+{
+  "dishes": [
+    {
+      "id": "bavarian_beer",
+      "name": "Bavarian Beer",
+      "subtitle": "Traditional German Beverage",
+      "description": "A crisp, refreshing Bavarian beer brewed from the finest barley and hops.",
+      "ingredients": [
+        {
+          "name": "Barley Malt",
+          "amount": "300 ml",
+          "icon": "barley"
+        },
+        {
+          "name": "Hops",
+          "amount": "5 g",
+          "icon": "hops"
+        },
+        {
+          "name": "Water",
+          "amount": "300 ml",
+          "icon": "water"
+        },
+        {
+          "name": "Yeast",
+          "amount": "2 g",
+          "icon": "yeast"
+        },
+        {
+          "name": "Carbon Dioxide",
+          "amount": "Trace",
+          "icon": "co2"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "150 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "13 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "0 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "0 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "1 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "10 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Contains Alcohol"
+      ],
+      "nutritionValue": [
+        "D"
+      ],
+      "rating": 5.0
+    },
+    {
+      "id": "apple_strudle",
+      "name": "Apple Strudle",
+      "subtitle": "Classic Austrian Dessert",
+      "description": "Warm pastry filled with spiced apples and golden raisins.",
+      "ingredients": [
+        {
+          "name": "Apples",
+          "amount": "150 g",
+          "icon": "apple"
+        },
+        {
+          "name": "Pastry Dough",
+          "amount": "100 g",
+          "icon": "dough"
+        },
+        {
+          "name": "Cinnamon",
+          "amount": "2 g",
+          "icon": "cinnamon"
+        },
+        {
+          "name": "Sugar",
+          "amount": "20 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Butter",
+          "amount": "15 g",
+          "icon": "butter"
+        },
+        {
+          "name": "Raisins",
+          "amount": "10 g",
+          "icon": "raisins"
+        },
+        {
+          "name": "Lemon Zest",
+          "amount": "2 g",
+          "icon": "lemon"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "290 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "48 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "18 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "8 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "4 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "180 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Vegetarian"
+      ],
+      "nutritionValue": [
+        "D"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": "pancakes",
+      "name": "Pancakes",
+      "subtitle": "Breakfast Favorite",
+      "description": "Fluffy pancakes served with syrup and fresh berries.",
+      "ingredients": [
+        {
+          "name": "Flour",
+          "amount": "100 g",
+          "icon": "flour"
+        },
+        {
+          "name": "Eggs",
+          "amount": "2 pcs",
+          "icon": "egg"
+        },
+        {
+          "name": "Milk",
+          "amount": "120 ml",
+          "icon": "milk"
+        },
+        {
+          "name": "Butter",
+          "amount": "15 g",
+          "icon": "butter"
+        },
+        {
+          "name": "Sugar",
+          "amount": "10 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Baking Powder",
+          "amount": "3 g",
+          "icon": "baking"
+        },
+        {
+          "name": "Blueberries",
+          "amount": "20 g",
+          "icon": "berries"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "310 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "42 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "9 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "12 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "9 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "380 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Vegetarian"
+      ],
+      "nutritionValue": [
+        "C"
+      ],
+      "rating": 4.0
+    },
+    {
+      "id": "gazpacho",
+      "name": "Gazpacho",
+      "subtitle": "Chilled Spanish Soup",
+      "description": "Refreshing tomato and vegetable soup served cold.",
+      "ingredients": [
+        {
+          "name": "Tomatoes",
+          "amount": "200 g",
+          "icon": "tomato"
+        },
+        {
+          "name": "Cucumber",
+          "amount": "50 g",
+          "icon": "cucumber"
+        },
+        {
+          "name": "Bell Pepper",
+          "amount": "50 g",
+          "icon": "pepper"
+        },
+        {
+          "name": "Red Onion",
+          "amount": "30 g",
+          "icon": "onion"
+        },
+        {
+          "name": "Garlic",
+          "amount": "3 g",
+          "icon": "garlic"
+        },
+        {
+          "name": "Olive Oil",
+          "amount": "10 ml",
+          "icon": "oil"
+        },
+        {
+          "name": "Bread",
+          "amount": "20 g",
+          "icon": "bread"
+        },
+        {
+          "name": "Vinegar",
+          "amount": "5 ml",
+          "icon": "vinegar"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "120 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "14 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "7 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "5 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "3 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "420 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "nutritionValue": [
+        "A"
+      ],
+      "rating": 3.5
+    },
+    {
+      "id": "cappuccino",
+      "name": "Cappuccino",
+      "subtitle": "Espresso Drink",
+      "description": "Rich espresso topped with steamed milk foam.",
+      "ingredients": [
+        {
+          "name": "Espresso",
+          "amount": "60 ml",
+          "icon": "coffee"
+        },
+        {
+          "name": "Milk",
+          "amount": "100 ml",
+          "icon": "milk"
+        },
+        {
+          "name": "Cocoa Powder",
+          "amount": "1 g",
+          "icon": "cocoa"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "90 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "6 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "6 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "4 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "5 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "90 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Contains Caffeine"
+      ],
+      "nutritionValue": [
+        "C"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": "pizza_spinaci_formaggio",
+      "name": "Pizza con Spinaci e Formaggio",
+      "subtitle": "Rustic Italian Pizza",
+      "description": "Pizza topped with baby spinach, creamy mozzarella, and rich tomato sauce.",
+      "ingredients": [
+        {
+          "name": "Pizza Dough",
+          "amount": "200 g",
+          "icon": "dough"
+        },
+        {
+          "name": "Tomato Sauce",
+          "amount": "100 g",
+          "icon": "tomato_sauce"
+        },
+        {
+          "name": "Spinach",
+          "amount": "60 g",
+          "icon": "spinach"
+        },
+        {
+          "name": "Mozzarella",
+          "amount": "80 g",
+          "icon": "mozzarella"
+        },
+        {
+          "name": "Olive Oil",
+          "amount": "10 ml",
+          "icon": "oil"
+        },
+        {
+          "name": "Garlic",
+          "amount": "5 g",
+          "icon": "garlic"
+        },
+        {
+          "name": "Oregano",
+          "amount": "2 g",
+          "icon": "oregano"
+        },
+        {
+          "name": "Black Pepper",
+          "amount": "1 g",
+          "icon": "pepper"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "340 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "38 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "4 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "14 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "13 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "520 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Vegetarian"
+      ],
+      "nutritionValue": [
+        "C"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": "lohikeitto",
+      "name": "Lohikeitto",
+      "subtitle": "Finnish Salmon Soup",
+      "description": "Creamy salmon soup with potatoes and dill.",
+      "ingredients": [
+        {
+          "name": "Salmon",
+          "amount": "150 g",
+          "icon": "salmon"
+        },
+        {
+          "name": "Potatoes",
+          "amount": "100 g",
+          "icon": "potato"
+        },
+        {
+          "name": "Carrots",
+          "amount": "50 g",
+          "icon": "carrot"
+        },
+        {
+          "name": "Leek",
+          "amount": "30 g",
+          "icon": "leek"
+        },
+        {
+          "name": "Cream",
+          "amount": "50 ml",
+          "icon": "cream"
+        },
+        {
+          "name": "Dill",
+          "amount": "5 g",
+          "icon": "dill"
+        },
+        {
+          "name": "Butter",
+          "amount": "10 g",
+          "icon": "butter"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "380 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "15 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "2 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "25 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "18 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "600 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Gluten-Free"
+      ],
+      "nutritionValue": [
+        "B"
+      ],
+      "rating": 4.0
+    },
+    {
+      "id": "ratatouille",
+      "name": "Ratatouille",
+      "subtitle": "French Vegetable Stew",
+      "description": "A hearty stew of fresh vegetables and herbs.",
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "amount": "80 g",
+          "icon": "eggplant"
+        },
+        {
+          "name": "Zucchini",
+          "amount": "80 g",
+          "icon": "zucchini"
+        },
+        {
+          "name": "Bell Peppers",
+          "amount": "70 g",
+          "icon": "pepper"
+        },
+        {
+          "name": "Tomatoes",
+          "amount": "100 g",
+          "icon": "tomato"
+        },
+        {
+          "name": "Onion",
+          "amount": "50 g",
+          "icon": "onion"
+        },
+        {
+          "name": "Garlic",
+          "amount": "3 g",
+          "icon": "garlic"
+        },
+        {
+          "name": "Olive Oil",
+          "amount": "10 ml",
+          "icon": "oil"
+        },
+        {
+          "name": "Herbs de Provence",
+          "amount": "2 g",
+          "icon": "herbs"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "160 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "20 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "9 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "7 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "4 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "400 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Vegan"
+      ],
+      "nutritionValue": [
+        "A"
+      ],
+      "rating": 4.0
+    },
+    {
+      "id": "alfredo_pasta",
+      "name": "Alfredo Pasta",
+      "subtitle": "Creamy Italian Pasta",
+      "description": "Rich pasta with creamy Alfredo sauce and parmesan.",
+      "ingredients": [
+        {
+          "name": "Fettuccine",
+          "amount": "150 g",
+          "icon": "pasta"
+        },
+        {
+          "name": "Parmesan Cheese",
+          "amount": "40 g",
+          "icon": "parmesan"
+        },
+        {
+          "name": "Butter",
+          "amount": "20 g",
+          "icon": "butter"
+        },
+        {
+          "name": "Heavy Cream",
+          "amount": "50 ml",
+          "icon": "cream"
+        },
+        {
+          "name": "Garlic",
+          "amount": "3 g",
+          "icon": "garlic"
+        },
+        {
+          "name": "Parsley",
+          "amount": "2 g",
+          "icon": "parsley"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "520 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "52 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "3 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "25 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "16 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "640 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Vegetarian"
+      ],
+      "nutritionValue": [
+        "D"
+      ],
+      "rating": 3.5
+    },
+    {
+      "id": "mexican_taco",
+      "name": "Mexican Taco",
+      "subtitle": "Spicy Mexican Street Food",
+      "description": "Soft corn tortillas filled with spiced beef and fresh toppings.",
+      "ingredients": [
+        {
+          "name": "Corn Tortilla",
+          "amount": "2 pcs",
+          "icon": "tortilla"
+        },
+        {
+          "name": "Ground Beef",
+          "amount": "100 g",
+          "icon": "beef"
+        },
+        {
+          "name": "Lettuce",
+          "amount": "20 g",
+          "icon": "lettuce"
+        },
+        {
+          "name": "Cheddar Cheese",
+          "amount": "20 g",
+          "icon": "cheddar"
+        },
+        {
+          "name": "Tomato Salsa",
+          "amount": "30 g",
+          "icon": "salsa"
+        },
+        {
+          "name": "Sour Cream",
+          "amount": "15 g",
+          "icon": "sour_cream"
+        },
+        {
+          "name": "Avocado",
+          "amount": "30 g",
+          "icon": "avocado"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "390 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "28 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "4 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "20 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "19 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "550 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Spicy"
+      ],
+      "nutritionValue": [
+        "C"
+      ],
+      "rating": 4.0
+    },
+    {
+      "id": "samosa",
+      "name": "Samosa",
+      "subtitle": "Indian Snack",
+      "description": "Crispy pastry filled with spiced potatoes and peas.",
+      "ingredients": [
+        {
+          "name": "Potatoes",
+          "amount": "100 g",
+          "icon": "potato"
+        },
+        {
+          "name": "Green Peas",
+          "amount": "30 g",
+          "icon": "peas"
+        },
+        {
+          "name": "All-purpose Flour",
+          "amount": "80 g",
+          "icon": "flour"
+        },
+        {
+          "name": "Ghee",
+          "amount": "20 g",
+          "icon": "ghee"
+        },
+        {
+          "name": "Cumin Seeds",
+          "amount": "2 g",
+          "icon": "cumin"
+        },
+        {
+          "name": "Ginger",
+          "amount": "2 g",
+          "icon": "ginger"
+        },
+        {
+          "name": "Spices",
+          "amount": "5 g",
+          "icon": "spices"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "280 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "35 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "3 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "12 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "6 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "300 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Vegetarian"
+      ],
+      "nutritionValue": [
+        "D"
+      ],
+      "rating": 5.0
+    },
+    {
+      "id": "xiaolongbao",
+      "name": "Xiaolongbao",
+      "subtitle": "Chinese Soup Dumplings",
+      "description": "Tender dumplings filled with juicy pork and broth.",
+      "ingredients": [
+        {
+          "name": "Pork Mince",
+          "amount": "80 g",
+          "icon": "pork"
+        },
+        {
+          "name": "Ginger",
+          "amount": "2 g",
+          "icon": "ginger"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": "5 ml",
+          "icon": "soy_sauce"
+        },
+        {
+          "name": "Wheat Dough",
+          "amount": "60 g",
+          "icon": "dough"
+        },
+        {
+          "name": "Green Onion",
+          "amount": "5 g",
+          "icon": "onion"
+        },
+        {
+          "name": "Sesame Oil",
+          "amount": "2 ml",
+          "icon": "oil"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "230 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "24 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "2 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "10 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "11 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "420 mg",
+          "icon": "sodium"
+        }
+      ],
+      "nutritionValue": [
+        "C"
+      ],
+      "tags": [],
+      "rating": 3.5
+    },
+    {
+      "id": "sushi",
+      "name": "Sushi",
+      "subtitle": "Japanese Delicacy",
+      "description": "Fresh sushi rolls with rice, seaweed, and fish.",
+      "ingredients": [
+        {
+          "name": "Sushi Rice",
+          "amount": "100 g",
+          "icon": "rice"
+        },
+        {
+          "name": "Nori Sheets",
+          "amount": "2 pcs",
+          "icon": "nori"
+        },
+        {
+          "name": "Raw Fish",
+          "amount": "50 g",
+          "icon": "fish"
+        },
+        {
+          "name": "Avocado",
+          "amount": "30 g",
+          "icon": "avocado"
+        },
+        {
+          "name": "Cucumber",
+          "amount": "20 g",
+          "icon": "cucumber"
+        },
+        {
+          "name": "Soy Sauce",
+          "amount": "10 ml",
+          "icon": "soy_sauce"
+        },
+        {
+          "name": "Wasabi",
+          "amount": "2 g",
+          "icon": "wasabi"
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "amount": "280 kcal",
+          "icon": "calories"
+        },
+        {
+          "name": "Carbohydrates",
+          "amount": "35 g",
+          "icon": "carbs"
+        },
+        {
+          "name": "Sugar",
+          "amount": "3 g",
+          "icon": "sugar"
+        },
+        {
+          "name": "Fat",
+          "amount": "8 g",
+          "icon": "fat"
+        },
+        {
+          "name": "Protein",
+          "amount": "14 g",
+          "icon": "protein"
+        },
+        {
+          "name": "Sodium",
+          "amount": "550 mg",
+          "icon": "sodium"
+        }
+      ],
+      "tags": [
+        "Contains Raw Fish"
+      ],
+      "nutritionValue": [
+        "B"
+      ],
+      "rating": 4.0
+    }
+  ]
+}

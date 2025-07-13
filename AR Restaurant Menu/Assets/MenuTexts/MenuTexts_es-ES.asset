@@ -1,0 +1,438 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuTexts_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: aa6170ed8ff3d4da989b13ef9095206f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18157728161792
+    m_Localized: "Cerveza b\xE1vara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161793
+    m_Localized: Bebida tradicional alemana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161794
+    m_Localized: "Una cerveza b\xE1vara refrescante elaborada con la mejor cebada
+      y l\xFApulo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161795
+    m_Localized: Strudel de manzana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157728161796
+    m_Localized: "Postre cl\xE1sico austriaco"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356096
+    m_Localized: "Pasteler\xEDa caliente rellena de manzanas especiadas y pasas doradas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356097
+    m_Localized: Tortitas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356098
+    m_Localized: Desayuno favorito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356099
+    m_Localized: Tortitas esponjosas servidas con sirope y bayas frescas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356100
+    m_Localized: Gazpacho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356101
+    m_Localized: "Sopa fr\xEDa espa\xF1ola"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356102
+    m_Localized: "Sopa refrescante de tomate y verduras servida fr\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356103
+    m_Localized: Capuchino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356104
+    m_Localized: Bebida de espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356105
+    m_Localized: Espresso rico cubierto con espuma de leche al vapor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356106
+    m_Localized: Pizza con espinacas y queso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356107
+    m_Localized: "Pizza italiana r\xFAstica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356108
+    m_Localized: Pizza cubierta con espinacas tiernas, mozzarella cremosa y rica
+      salsa de tomate.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356109
+    m_Localized: Lohikeitto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356110
+    m_Localized: "Sopa finlandesa de salm\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356111
+    m_Localized: "Sopa cremosa de salm\xF3n con patatas y eneldo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356112
+    m_Localized: Ratatouille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157732356113
+    m_Localized: "Estofado de verduras franc\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550400
+    m_Localized: Un estofado abundante de verduras frescas y hierbas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550401
+    m_Localized: Pasta Alfredo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550402
+    m_Localized: Pasta italiana cremosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550403
+    m_Localized: Pasta rica con salsa Alfredo cremosa y parmesano.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550404
+    m_Localized: Taco mexicano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550405
+    m_Localized: Comida callejera mexicana picante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550406
+    m_Localized: "Tortillas de ma\xEDz suaves rellenas de carne de res especiada
+      y ingredientes frescos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550407
+    m_Localized: Samosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550408
+    m_Localized: Aperitivo indio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550409
+    m_Localized: "Pasteler\xEDa crujiente rellena de patatas especiadas y guisantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550410
+    m_Localized: Xiaolongbao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550411
+    m_Localized: Empanadillas de sopa chinas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550412
+    m_Localized: "Tiernos dumplings rellenos de jugoso cerdo y caldo arom\xE1tico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550413
+    m_Localized: "Calor\xEDas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550414
+    m_Localized: "Prote\xEDna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550415
+    m_Localized: Carbohidratos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550416
+    m_Localized: Grasas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550417
+    m_Localized: "Az\xFAcar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550418
+    m_Localized: Sodio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550419
+    m_Localized: Malta de cebada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157736550420
+    m_Localized: "L\xFApulo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744704
+    m_Localized: Agua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744705
+    m_Localized: Levadura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744706
+    m_Localized: "Di\xF3xido de carbono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744707
+    m_Localized: Manzanas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744708
+    m_Localized: Masa de hojaldre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744709
+    m_Localized: Canela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744710
+    m_Localized: "Az\xFAcar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744711
+    m_Localized: Mantequilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744712
+    m_Localized: Pasas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744713
+    m_Localized: "Ralladura de lim\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744714
+    m_Localized: Harina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744715
+    m_Localized: Huevos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744716
+    m_Localized: Leche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744717
+    m_Localized: Polvo de hornear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744718
+    m_Localized: "Ar\xE1ndanos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744719
+    m_Localized: Tomates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744720
+    m_Localized: Pepino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744721
+    m_Localized: Pimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744722
+    m_Localized: Cebolla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744723
+    m_Localized: Ajo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744724
+    m_Localized: Aceite de oliva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744725
+    m_Localized: Pan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744726
+    m_Localized: Vinagre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744727
+    m_Localized: Espresso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744728
+    m_Localized: Cacao en polvo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744729
+    m_Localized: Masa de pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157740744730
+    m_Localized: Salsa de tomate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939008
+    m_Localized: Espinacas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939009
+    m_Localized: Mozzarella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939010
+    m_Localized: "Or\xE9gano"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939011
+    m_Localized: Pimienta negra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939012
+    m_Localized: "Salm\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939013
+    m_Localized: Patatas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939014
+    m_Localized: Zanahorias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939015
+    m_Localized: Puerros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939016
+    m_Localized: Nata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939017
+    m_Localized: Eneldo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939018
+    m_Localized: Berenjena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939019
+    m_Localized: "Calabac\xEDn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939020
+    m_Localized: Queso parmesano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939021
+    m_Localized: Perejil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939022
+    m_Localized: Tortilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939023
+    m_Localized: Carne molida de res
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939024
+    m_Localized: Lechuga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939025
+    m_Localized: Queso cheddar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939026
+    m_Localized: Salsa de tomate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939027
+    m_Localized: Crema agria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939028
+    m_Localized: Aguacate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939029
+    m_Localized: Guisantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939030
+    m_Localized: Ghee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939031
+    m_Localized: Comino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939032
+    m_Localized: Especias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939033
+    m_Localized: Masa de trigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939034
+    m_Localized: Cebolla verde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939035
+    m_Localized: "Aceite de s\xE9same"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157744939036
+    m_Localized: Arroz para sushi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157749133312
+    m_Localized: Hojas de nori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157749133313
+    m_Localized: Pescado crudo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18157749133314
+    m_Localized: Wasabi
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
